@@ -10,6 +10,7 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <strong>Xuehai Bai</strong><sup>5</sup>,
   <strong>Yue Ding</strong><sup>6</sup>
   <strong>Ruizhe Chen</strong><sup>7</sup>,
+  <br>
   <strong>Bohan Zeng</strong><sup>3</sup>,
   <strong>Xinlong Chen</strong><sup>6</sup>,
   <strong>Xuanyu Zhu</strong><sup>3</sup>,
@@ -17,12 +18,14 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <strong>Yuran Wang</strong><sup>3</sup>
   <strong>Yifan Dai</strong><sup>8</sup>,
   <strong>Chengzhuo Tong</strong><sup>3</sup>,
+  <br>
   <strong>Xinyu Liu</strong><sup>9</sup>,
   <strong>Yiyan Ji</strong><sup>10</sup>,
   <strong>Yujie Wei</strong><sup>11</sup>,
   <strong>Yuhao Dong</strong><sup>12</sup>,
   <strong>Shilin Yan</strong><sup>13</sup>
   <strong>Fengxiang Wang</strong><sup>14</sup>,
+  <br>
   <strong>Yi-Fan Zhang</strong><sup>6‡</sup>,
   <strong>Haotian Wang</strong><sup>15‡</sup>,
   <strong>Yuanxing Zhang</strong><sup>4‡</sup>,
