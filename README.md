@@ -23,11 +23,11 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <strong>Yiyan Ji</strong><sup>10</sup>,
   <strong>Yujie Wei</strong><sup>11</sup>,
   <strong>Yuhao Dong</strong><sup>12</sup>,
-  <strong>Shilin Yan</strong><sup>13</sup>
-  <strong>Fengxiang Wang</strong><sup>14</sup>,
+  <strong>Shilin Yan</strong><sup>11</sup>
+  <strong>Fengxiang Wang</strong><sup>13</sup>,
   <br>
   <strong>Yi-Fan Zhang</strong><sup>6‡</sup>,
-  <strong>Haotian Wang</strong><sup>15‡</sup>,
+  <strong>Haotian Wang</strong><sup>14‡</sup>,
   <strong>Yuanxing Zhang</strong><sup>4‡</sup>,
   <strong>Pengfei Wan</strong><sup>4</sup>
 </p>
@@ -38,17 +38,16 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <sup>3</sup>PKU &nbsp;&nbsp;
   <sup>4</sup>Kling Team &nbsp;&nbsp;
   <sup>5</sup>HDU &nbsp;&nbsp;
-  <sup>6</sup>CASIA
+  <sup>6</sup>CASIA &nbsp;&nbsp;
   <sup>7</sup>ZJU &nbsp;&nbsp;
   <sup>8</sup>SJTU &nbsp;&nbsp;
   <sup>9</sup>HKUST &nbsp;&nbsp;
   <br>
   <sup>10</sup>NJU &nbsp;&nbsp;
-  <sup>11</sup>FDU
+  <sup>11</sup>FDU &nbsp;&nbsp;
   <sup>12</sup>NTU &nbsp;&nbsp;
-  <sup>13</sup>Fudan University &nbsp;&nbsp;
-  <sup>14</sup>Shanghai AI Lab &nbsp;&nbsp;
-  <sup>15</sup>THU
+  <sup>13</sup>Shanghai AI Lab &nbsp;&nbsp;
+  <sup>14</sup>THU
 </p>
 
 <p align="center">
