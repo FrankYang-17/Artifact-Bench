@@ -3,8 +3,60 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 </h1>
 
 <p align="center">
+  <strong>Yuqi Tang</strong><sup>1,2*</sup>,
+  <strong>Yang Shi</strong><sup>3,4*†</sup>,
+  <strong>Zhuoran Zhang</strong><sup>3*</sup>,
+  <strong>Qixun Wang</strong><sup>3*</sup>,
+  <strong>Xuehai Bai</strong><sup>5</sup>,
+  <strong>Yue Ding</strong><sup>6</sup>
+  <strong>Ruizhe Chen</strong><sup>7</sup>,
+  <strong>Bohan Zeng</strong><sup>3</sup>,
+  <strong>Xinlong Chen</strong><sup>6</sup>,
+  <strong>Xuanyu Zhu</strong><sup>3</sup>,
+  <strong>Bozhou Li</strong><sup>3</sup>,
+  <strong>Yuran Wang</strong><sup>3</sup>
+  <strong>Yifan Dai</strong><sup>8</sup>,
+  <strong>Chengzhuo Tong</strong><sup>3</sup>,
+  <strong>Xinyu Liu</strong><sup>9</sup>,
+  <strong>Yiyan Ji</strong><sup>10</sup>,
+  <strong>Yujie Wei</strong><sup>11</sup>,
+  <strong>Yuhao Dong</strong><sup>12</sup>,
+  <strong>Shilin Yan</strong><sup>13</sup>
+  <strong>Fengxiang Wang</strong><sup>14</sup>,
+  <strong>Yi-Fan Zhang</strong><sup>6‡</sup>,
+  <strong>Haotian Wang</strong><sup>15‡</sup>,
+  <strong>Yuanxing Zhang</strong><sup>4‡</sup>,
+  <strong>Pengfei Wan</strong><sup>4</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>HKUST(GZ) &nbsp;&nbsp;
+  <sup>2</sup>BUAA &nbsp;&nbsp;
+  <sup>3</sup>PKU &nbsp;&nbsp;
+  <sup>4</sup>Kling Team &nbsp;&nbsp;
+  <sup>5</sup>HDU &nbsp;&nbsp;
+  <sup>6</sup>CASIA
+  <sup>7</sup>ZJU &nbsp;&nbsp;
+  <sup>8</sup>SJTU &nbsp;&nbsp;
+  <sup>9</sup>HKUST &nbsp;&nbsp;
+  <br>
+  <sup>10</sup>NJU &nbsp;&nbsp;
+  <sup>11</sup>FDU
+  <sup>12</sup>NTU &nbsp;&nbsp;
+  <sup>13</sup>Fudan University &nbsp;&nbsp;
+  <sup>14</sup>Shanghai AI Lab &nbsp;&nbsp;
+  <sup>15</sup>THU
+</p>
+
+<p align="center">
+  <sup>*</sup>Equal Contribution &nbsp;&nbsp;
+  <sup>†</sup>Project Lead &nbsp;&nbsp;
+  <sup>‡</sup>Corresponding Author
+</p>
+
+<p align="center">
   <a href="#">📄 Paper</a> |
-  <a href="">🤗 Artifact-Bench Dataset</a> |
+  <a href="https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench">🤗 Artifact-Bench Dataset</a>
 </p>
 
 ## 📚 Citation
