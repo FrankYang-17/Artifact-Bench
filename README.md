@@ -10,4 +10,4 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 ## 📚 Citation
 ```bibtex
 
-}
+```
