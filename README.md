@@ -63,6 +63,11 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 
 ![teaser](image/task.png)
 
+## 💡 Representive Examples of Each Task
+![visualization](image/task_1_example.png)
+![visualization](image/task_2_example.png)
+![visualization](image/task_3_example.png)
+
 ## 📚 Citation
 ```bibtex
 
