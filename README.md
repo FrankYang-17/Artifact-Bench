@@ -59,10 +59,14 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 </p>
 
 ## 🔍 Benchmark Overview
+
+- **Artifact Taxonomy**
 ![teaser](image/artifact_taxonomy.png)
 
+- **Artifact-Bench Tasks**
 ![teaser](image/task.png)
 
+- **Statistics of Artifact-Bench**
 ![statistic](image/statistic.png)
 
 <details>
