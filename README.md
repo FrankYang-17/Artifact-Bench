@@ -31,7 +31,6 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <strong>Yuanxing Zhang</strong><sup>4‡</sup>,
   <strong>Pengfei Wan</strong><sup>4</sup>
 </p>
-
 <p align="center">
   <sup>1</sup>HKUST(GZ) &nbsp;&nbsp;
   <sup>2</sup>BUAA &nbsp;&nbsp;
@@ -49,13 +48,11 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <sup>13</sup>Shanghai AI Lab &nbsp;&nbsp;
   <sup>14</sup>THU
 </p>
-
 <p align="center">
   <sup>*</sup>Equal Contribution &nbsp;&nbsp;
   <sup>†</sup>Project Lead &nbsp;&nbsp;
   <sup>‡</sup>Corresponding Author
 </p>
-
 <p align="center">
   <a href="#">📄 Paper</a> |
   <a href="https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench">🤗 Artifact-Bench Dataset</a>
