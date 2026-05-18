@@ -67,21 +67,21 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 <summary><h2>💡 Representive Examples of Each Task</h2></summary>
 
 <details>
-<summary><h3>Task 1: Real vs. AI-Generated Video Classification (RVAC)</h3></summary>
+<summary>Task 1: Real vs. AI-Generated Video Classification (RVAC)</summary>
 
 ![visualization](image/task_1_example.png)
 
 </details>
 
 <details>
-<summary><h3>Task 2: Pairwise Video Realism Comparison (PVRC)</h3></summary>
+<summary>Task 2: Pairwise Video Realism Comparison (PVRC)</summary>
 
 ![visualization](image/task_2_example.png)
 
 </details>
 
 <details>
-<summary><h3>Task 3: Artifact Identification (AID)</h3></summary>
+<summary>Task 3: Artifact Identification (AID)</summary>
 
 ![visualization](image/task_3_example.png)
 
