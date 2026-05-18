@@ -61,6 +61,12 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
   <a href="https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench">🤗 Artifact-Bench Dataset</a>
 </p>
 
+# Benchmark Overview
+## 🔍 Benchmark Overview
+![teaser](images/artifact_taxonomy.png)
+
+![teaser](images/task.png)
+
 ## 📚 Citation
 ```bibtex
 
