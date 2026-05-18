@@ -166,8 +166,10 @@ python eval/result_process.py \
 If the input samples contain `answer`, the script also writes `correct` for
 each sample and reports accuracy in the summary JSON.
 
-For long-form model outputs that are difficult to parse by rules, you can use
-an OpenAI-compatible parser as a fallback:
+In our paper, we use `Gemini 3 Flash` for answer extraction and parsing. We
+recommend using `Gemini 3 Flash` through an OpenAI-compatible API endpoint for
+better reproducibility, especially when model responses contain long-form
+reasoning:
 
 ```bash
 export OPENAI_API_KEY=your_api_key
@@ -175,7 +177,8 @@ export OPENAI_API_KEY=your_api_key
 python eval/result_process.py \
   --input-dir results \
   --output-dir results \
-  --parser-model gpt-4o-mini
+  --parser-model gemini-3-flash \
+  --base-url your_openai_compatible_base_url
 ```
 
 By default, the parser model is only called when rule parsing returns
