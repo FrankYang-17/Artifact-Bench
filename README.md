@@ -63,10 +63,25 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 
 ![teaser](image/task.png)
 
-## 💡 Representive Examples of Each Task
+<details>
+<summary><h2>💡 Representive Examples of Each Task</h2></summary>
+
 ![visualization](image/task_1_example.png)
 ![visualization](image/task_2_example.png)
 ![visualization](image/task_3_example.png)
+
+</details>
+
+## 🔖 Dataset License
+**License:**
+```
+Artifact-Bench is only used for academic research. Commercial use in any form is prohibited.
+The copyright of all videos belongs to the video owners.
+If there is any infringement in Artifact-Bench, please email frankyang1517@gmail.com and we will remove it immediately.
+Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Artifact-Bench in whole or in part. 
+You must strictly comply with the above restrictions.
+```
+Please send an email to <u>frankyang1517@gmail.com</u>. 🌟
 
 ## 📚 Citation
 ```bibtex
