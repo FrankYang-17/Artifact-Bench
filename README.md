@@ -51,9 +51,13 @@ Artifact-Bench is a comprehensive benchmark for evaluating whether Multimodal La
 This repository provides a lightweight evaluation pipeline for running Qwen3-VL
 on Artifact-Bench and post-processing model responses into task-level answers.
 
-### 📍 1. Prepare Input JSONL
+### 📍 1. Prepare Data
 
-We provide the metadata files for all three tasks in [`task/`](task):
+Download the Artifact-Bench videos from the
+[🤗 Artifact-Bench-HF](https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench), and keep the downloaded dataset folders in
+the released structure.
+
+We provide the input metadata files for all three tasks in [`task/`](task):
 
 - [`task/task1_meta.jsonl`](task/task1_meta.jsonl): Real vs. AI-Generated Video Classification (RVAC)
 - [`task/task2_meta.jsonl`](task/task2_meta.jsonl): Pairwise Video Realism Comparison (PVRC)
@@ -63,10 +67,9 @@ Each line is one evaluation sample. The released metadata files contain
 `task_type`, `sample_id`, `video_path`, `answer`, and `level`; Task 3 also
 contains the candidate artifact `option` list.
 
-The `video_path` values are passed directly to the video processor. Please run
-the commands from a directory where these paths are valid, keep the downloaded
-dataset folders in the released structure, or replace `video_path` with absolute
-paths before inference.
+The `video_path` values in these JSONL files are passed directly to the video
+processor. Please run the commands from a directory where these paths are valid,
+or replace `video_path` with absolute paths before inference.
 
 ### 📍 2. Run Qwen3-VL Inference
 
