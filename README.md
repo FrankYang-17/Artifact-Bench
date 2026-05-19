@@ -9,6 +9,8 @@ Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-
 
 ## 🔍 Benchmark Overview
 
+Artifact-Bench is a comprehensive benchmark for evaluating whether Multimodal Large Language Models (MLLMs) can truly detect and reason about the artifacts of AI-generated videos. Instead of focusing only on semantic understanding, Artifact-Bench emphasizes artifact-aware realism perception and fine-grained video analysis.
+
 - **Artifact Taxonomy**
 ![teaser](image/artifact_taxonomy.png)
 
