@@ -2,6 +2,11 @@
 Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos
 </h1>
 
+<p align="center">
+  <a href="#">📄 Paper</a> |
+  <a href="https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench">🤗 Artifact-Bench Dataset</a>
+</p>
+
 ## 🔍 Benchmark Overview
 
 - **Artifact Taxonomy**
