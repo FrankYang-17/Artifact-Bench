@@ -151,5 +151,13 @@ Please send an email to <u>frankyang1517@gmail.com</u>. 🌟
 
 ## 📚 Citation
 ```bibtex
-
+@misc{tang2026artifactbenchevaluatingmllmsdetecting,
+      title={Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos}, 
+      author={Yuqi Tang and Yang Shi and Zhuoran Zhang and Qixun Wang and Xuehai Bai and Yue Ding and Ruizhe Chen and Bohan Zeng and Xinlong Chen and Xuanyu Zhu and Bozhou Li and Yuran Wang and Yifan Dai and Chengzhuo Tong and Xinyu Liu and Yiyan Ji and Yujie Wei and Yuhao Dong and Shilin Yan and Fengxiang Wang and Yi-Fan Zhang and Haotian Wang and Yuanxing Zhang and Pengfei Wan},
+      year={2026},
+      eprint={2605.18984},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.18984}, 
+}
 ```
